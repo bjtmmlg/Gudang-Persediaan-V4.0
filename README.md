@@ -1,2 +1,2 @@
-# Gudang-Persediaan-V4.0
+# gudangpersediaan
 Gudang Persediaan Bank Jatim Cabang Malang
